@@ -50,6 +50,7 @@
         <Compile Include="NewDirectory1\New.cs" />
         <Compile Include="NewDirectory3\momentOfTruth.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="silvia\sil.cs" />
     </ItemGroup>
     <ItemGroup>
       <None Include="App.config" />
