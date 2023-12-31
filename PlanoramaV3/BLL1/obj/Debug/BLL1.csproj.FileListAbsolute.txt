@@ -1,9 +1,0 @@
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\bin\Debug\BLL1.dll
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\bin\Debug\BLL1.pdb
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\bin\Debug\DLL1.dll
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\bin\Debug\DLL1.pdb
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\obj\Debug\BLL1.csproj.AssemblyReference.cache
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\obj\Debug\BLL1.csproj.CoreCompileInputs.cache
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\obj\Debug\BLL1.csproj.CopyComplete
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\obj\Debug\BLL1.dll
-C:\Users\rrouf\RiderProjects\PlanoramaV3\BLL1\obj\Debug\BLL1.pdb
