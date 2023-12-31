@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace DAL.Models
@@ -31,5 +32,17 @@ namespace DAL.Models
 
         [Required]
         public string UserType {get; set;}
+        
+        public virtual ICollection<Booking> Bookings { get; set; }
+        public virtual ICollection<Review> Reviews { get; set; }
+        public virtual ICollection<Notification> Notifications { get; set; }
+
+        public User()
+        {
+            Bookings = new List<Booking>();
+            Reviews = new List<Review>();
+            Notifications = new List<Notification>();
+            
+        }
     }
 }

@@ -53,11 +53,14 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Models\Booking.cs" />
+    <Compile Include="Models\Coupon.cs" />
     <Compile Include="Models\Dacoration.cs" />
     <Compile Include="Models\DecorationsCategory.cs" />
     <Compile Include="Models\Food.cs" />
     <Compile Include="Models\Location.cs" />
     <Compile Include="Models\LocationsCategory.cs" />
+    <Compile Include="Models\Notification.cs" />
+    <Compile Include="Models\Review.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\FoodsCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
