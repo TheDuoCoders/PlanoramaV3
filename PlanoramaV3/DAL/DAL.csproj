@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Models\Booking.cs" />
     <Compile Include="Models\Food.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\FoodsCategory.cs" />
