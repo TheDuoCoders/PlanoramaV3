@@ -1,0 +1,6 @@
+C:\Users\rrouf\RiderProjects\PlanoramaV3\DLL1\bin\Debug\DLL1.dll
+C:\Users\rrouf\RiderProjects\PlanoramaV3\DLL1\bin\Debug\DLL1.pdb
+C:\Users\rrouf\RiderProjects\PlanoramaV3\DLL1\obj\Debug\DLL1.csproj.AssemblyReference.cache
+C:\Users\rrouf\RiderProjects\PlanoramaV3\DLL1\obj\Debug\DLL1.csproj.CoreCompileInputs.cache
+C:\Users\rrouf\RiderProjects\PlanoramaV3\DLL1\obj\Debug\DLL1.dll
+C:\Users\rrouf\RiderProjects\PlanoramaV3\DLL1\obj\Debug\DLL1.pdb
