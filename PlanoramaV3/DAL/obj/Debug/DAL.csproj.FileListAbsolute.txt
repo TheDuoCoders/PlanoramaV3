@@ -1,0 +1,12 @@
+D:\Study\PlanoramaV3\DAL\bin\Debug\DAL.dll.config
+D:\Study\PlanoramaV3\DAL\bin\Debug\DAL.dll
+D:\Study\PlanoramaV3\DAL\bin\Debug\DAL.pdb
+D:\Study\PlanoramaV3\DAL\bin\Debug\EntityFramework.dll
+D:\Study\PlanoramaV3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\PlanoramaV3\DAL\bin\Debug\EntityFramework.xml
+D:\Study\PlanoramaV3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\PlanoramaV3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Study\PlanoramaV3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Study\PlanoramaV3\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Study\PlanoramaV3\DAL\obj\Debug\DAL.dll
+D:\Study\PlanoramaV3\DAL\obj\Debug\DAL.pdb
