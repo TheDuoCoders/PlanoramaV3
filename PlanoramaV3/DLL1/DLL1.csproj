@@ -48,6 +48,7 @@
     <ItemGroup>
         <Compile Include="Class1.cs" />
         <Compile Include="NewDirectory1\New.cs" />
+        <Compile Include="NewDirectory3\momentOfTruth.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
