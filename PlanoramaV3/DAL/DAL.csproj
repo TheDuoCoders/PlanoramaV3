@@ -54,6 +54,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Models\Dacoration.cs" />
     <Compile Include="Models\DecorationsCategory.cs" />
+    <Compile Include="Models\EMSContext.cs" />
     <Compile Include="Models\Food.cs" />
     <Compile Include="Models\Location.cs" />
     <Compile Include="Models\LocationsCategory.cs" />
